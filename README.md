@@ -1,6 +1,6 @@
 # Alphabet Soup Challenge
 
-![Alt text](Images/13-challenge-image.png)
+![Alt text](Resources/13-challenge-image.png)
 
 ## Background
 The project is based on an hypothetical venture capital firm. The business team receives numerous funding applications from startups every day and has requested assistance in developing a model that predicts whether applicants will become successful if funded by Alphabet Soup. Using existing knowledge of machine learning and neural networks, the aim is to create a binary classifier model that will predict an applicant's likelihood of success using the data provided in a CSV file containing over 34,000 organizations that have received funding from Alphabet Soup.
